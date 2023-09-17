@@ -110,12 +110,5 @@
   <img src="https://streak-stats.demolab.com?user=ibtisam-hash&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=guhapiwpngmpwd7iyyk6bjkfz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
