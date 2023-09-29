@@ -31,8 +31,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-###
-<img src= "https://www.credly.com/badges/d28b385f-0fd5-464f-b137-bc35f7ee3aba/public_url" />
+
 ###
 
 <h2 align="center">Technical Skills</h2>
